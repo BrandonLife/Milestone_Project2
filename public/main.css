@@ -11,6 +11,12 @@ body {
     
 }
 
+.bord{
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+
 img {
     width: 50%;
     display: block;
@@ -45,7 +51,7 @@ h4{
     color: white;
     margin-top: 3%;
     font-size: 30px;
-    font-family: 'Leelawadee UI',sans-serif;
+    font-family: 'Impact',sans-serif;
 }
 
 label{
@@ -91,12 +97,18 @@ text-decoration: none;
 color: white;
 }
 
+.space{
+    padding-bottom: 75rem;
+}
+
 .black{
     color:black;
+    text-align: center;
 }
 
 .white{
     color:white;
+    text-align: center;
 }
 
 #display{
