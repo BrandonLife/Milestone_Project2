@@ -1,9 +1,8 @@
-const express = require('express')
 const methodOverride = require('method-override')
 require('dotenv').config()
 const mongoose = require('mongoose')
 
-
+const express = require('express')
 const app = express()
 
 // MIDDLEWARE
@@ -27,11 +26,8 @@ const reviewController = require('./controllers/review.js')
 app.use('/movies', movieController)
 app.use('/reviews', reviewController)
 
-
-
-
 const PORT= process.env.PORT
 
 app.listen(PORT, console.log(`listening on port ${PORT}`))
 
-module.exports = app
+
