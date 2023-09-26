@@ -101,4 +101,5 @@ The inspiration for this app is IMDB. </p>
 <li>Search By Rating</li>
 <li>Ratings</li>
 
-Visit our site at https://movie-app-jhfr.onrender.com/movies
+<h1>Our site</h1>
+<p>Visit our site at https://movie-app-jhfr.onrender.com/movies</p>
