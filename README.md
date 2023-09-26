@@ -100,6 +100,7 @@ The inspiration for this app is IMDB. </p>
 <li> Search by actor</li>
 <li>Search By Rating</li>
 <li>Ratings</li>
+</ol>
 
 <h1>Our site</h1>
 <p>Visit our site at https://movie-app-jhfr.onrender.com/movies</p>
